@@ -12,3 +12,4 @@ Snap.*
 .DS_Store
 .polyglot.META-INF
 *.class
+/bin/
